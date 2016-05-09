@@ -1,0 +1,6 @@
+E:\D drive backup\c# studio\ConsoleApplication5\levenshtein\bin\Debug\levenshtein.exe.config
+E:\D drive backup\c# studio\ConsoleApplication5\levenshtein\bin\Debug\levenshtein.exe
+E:\D drive backup\c# studio\ConsoleApplication5\levenshtein\bin\Debug\levenshtein.pdb
+E:\D drive backup\c# studio\ConsoleApplication5\levenshtein\obj\Debug\levenshtein.exe
+E:\D drive backup\c# studio\ConsoleApplication5\levenshtein\obj\Debug\levenshtein.pdb
+E:\D drive backup\c# studio\ConsoleApplication5\levenshtein\obj\Debug\levenshtein.csprojResolveAssemblyReference.cache
