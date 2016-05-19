@@ -27,10 +27,10 @@ namespace levenshtein
 
             databaseaccess.fetchndc(pn, npn);
             LD l = new LD();
-            List<string> xx = new List<string>();
-            xx.Add("Prednisone");
-            xx.Add("Prednisolone");
-            xx.Add("tridione");
+          //  List<string> xx = new List<string>();
+          //  xx.Add("Prednisone");
+          //  xx.Add("Prednisolone");
+         //   xx.Add("tridione");
             //file1.WriteLine("haii");
 
              List<Tuple<string,string, string, double>> x = l.lev(cdm_terms, pn);
